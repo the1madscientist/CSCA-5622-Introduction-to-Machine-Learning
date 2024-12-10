@@ -2,6 +2,8 @@
 ## A final project for MSCS introduction to ML, Supervised Learning.
 ## TABLE OF CONTENTS
 
+Video Link
+
 Forward
 
 Introduction
@@ -25,6 +27,9 @@ Conclusion
 Future Work
 
 References
+
+### Video Link
+https://youtu.be/M97BxbdrvWI
 
 ### Forward
 Welcome to the Starship Titanic ML Project! This repository contains my final project for CSCA 5622 Introduction to machine learning, supervised learning.
