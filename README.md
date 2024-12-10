@@ -24,6 +24,8 @@ Conclusion
 
 Future Work
 
+References
+
 ### Forward
 Welcome to the Starship Titanic ML Project! This repository contains my final project for CSCA 5622 Introduction to machine learning, supervised learning.
 I have decided to join a Kaggle competition classifying data centered around the mysterious voyage of the Starship Titanic. The challenge here is to build
@@ -110,6 +112,18 @@ automate from the word go.
 3. leverage existing libraries to simplify, and speed up the process. I did find it useful throughout the course building some of these models essentially from
 scratch to understnd them better. But utilizing an existing library is so much faster.  
 
-Future Work
+### Future Work
 
-I will definately continue this project in the future, as I learn more techniques for data processing, and use of more advance deep learning methods.
+I will definately continue this project in the future, as I learn more techniques for data processing, and use of more advance deep learning methods. It has kept 
+my attention this entire time, and I beleive I can do better. 
+
+## References
+
+OpenAI. (2024, November 20 - December 09). ChatGPT [Large language model]. Retrieved from https://chat.openai.com/
+
+GeeksforGeeks. (n.d.). Data Preprocessing in Machine Learning using Python. Retrieved December 01, 2024, from https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/
+
+Built In. (n.d.). Supervised Learning in Python. Retrieved December 01, 2024, from https://builtin.com/data-science/supervised-learning-python
+
+GeeksforGeeks. (n.d.). How to Normalize Data Using Scikit-Learn in Python. Retrieved December 03, 2024, from https://www.geeksforgeeks.org/how-to-normalize-data-using-scikit-learn-in-python/
+
