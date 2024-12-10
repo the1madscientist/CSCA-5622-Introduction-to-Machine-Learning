@@ -1,6 +1,6 @@
-# MSCS_SL_FinalPorject
-A final project for MSCS introduction to ML, Supervised Learning.
-TABLE OF CONTENTS
+# CSCA 5622 Introduction to Machine Learning Final Project
+## A final project for MSCS introduction to ML, Supervised Learning.
+## TABLE OF CONTENTS
 
 Forward
 
